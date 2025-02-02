@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sensAIra/static/css/main.f6f2061f.css",
-    "main.js": "/sensAIra/static/js/main.184befce.js",
-    "index.html": "/sensAIra/index.html",
-    "main.f6f2061f.css.map": "/sensAIra/static/css/main.f6f2061f.css.map",
-    "main.184befce.js.map": "/sensAIra/static/js/main.184befce.js.map"
+    "main.css": "/static/css/main.f6f2061f.css",
+    "main.js": "/static/js/main.184befce.js",
+    "index.html": "/index.html",
+    "main.f6f2061f.css.map": "/static/css/main.f6f2061f.css.map",
+    "main.184befce.js.map": "/static/js/main.184befce.js.map"
   },
   "entrypoints": [
     "static/css/main.f6f2061f.css",
